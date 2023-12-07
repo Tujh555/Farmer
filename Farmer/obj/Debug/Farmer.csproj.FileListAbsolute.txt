@@ -1,0 +1,6 @@
+C:\Users\HP\RiderProjects\Farmer\Farmer\bin\Debug\Farmer.exe
+C:\Users\HP\RiderProjects\Farmer\Farmer\bin\Debug\Farmer.pdb
+C:\Users\HP\RiderProjects\Farmer\Farmer\obj\Debug\Farmer.csproj.AssemblyReference.cache
+C:\Users\HP\RiderProjects\Farmer\Farmer\obj\Debug\Farmer.csproj.CoreCompileInputs.cache
+C:\Users\HP\RiderProjects\Farmer\Farmer\obj\Debug\Farmer.exe
+C:\Users\HP\RiderProjects\Farmer\Farmer\obj\Debug\Farmer.pdb
